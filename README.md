@@ -21,6 +21,7 @@ In Scenario one, the author will propose to implement feature extraction (PCA) a
 <p align="center">
   Visual Example PCA Result in Scenario 1 using Plotly 3D
 </p>
+
 ![vis_pca_scene1](https://github.com/nsyawali12/fish-eating-classification/blob/10ac2808774f4795b260171fdfd251ba966643af/figure/visualize_pca_scene1.PNG)
 
 #### Scenario 2
