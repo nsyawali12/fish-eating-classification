@@ -26,3 +26,11 @@ in Scenario 2, simply has the similarity to scenario 1 for the feature extractio
 
 #### Scenario 3
 in Scenario 3. All the dataset will be concatenated in the first place, so there will be only one dataframe, from the feature extraction using PCA until modeling process done.
+
+### Conclusion
+
+In this Challenge, From all the Scenarios that have been implemented, so far Random Forest Model 5 from Scenario 1 is the greatest model, with 95% accuracy. However, unlike any other scenario, scenario 1 has the consistency of testing, the accuracy shows increasing, starting from model result using data 1 until data 5, both KNN and Random Forest.
+
+From the other scenarios which have concatenated data, each data has a good and clean quality, after combining the data, the new dataframe will be got saturated, so the performance is lower than scenario 1. In the lesson that the author learns, Random Forest has the ability to make the machine learning model for fish-eating classification. 
+
+In further research, the author will try using Deep learning and adding some preprocess algorithm such reducting outlier, to know there is a possibility of increasing the performance of this dataset.
