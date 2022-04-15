@@ -3,7 +3,7 @@
 by Naufal Syawali "Wallskiy"
 A Notebook for coding test entry to company eFishery, the purpose is to classifying fish is they got eating process or not, 
 
-### Getting Started with the notebook
+## Getting Started with the notebook
 All you need to do just running all the cell from **google colab**, for futher detailed explanation of each step, you can see in jupter notebook file.
 
 ## Problem Definition 
