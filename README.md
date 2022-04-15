@@ -3,9 +3,6 @@
 by Naufal Syawali "Wallskiy"
 A Notebook for coding test entry to company eFishery, the purpose is to classifying fish is they got eating process or not, 
 
-## Getting Started with the notebook
-All you need to do just running all the cell from **google colab**, for futher detailed explanation of each step, you can see in jupter notebook file.
-
 ### Problem Definition 
 
 In this challenge case, we got datasets about fish movements by index X, Y, Z, in that moment, that will lead the fish into eating session. Meanwhile, fish which got eat the feed will be label as 1, and the other which not have eat labelled as 0
@@ -34,3 +31,6 @@ In this Challenge, From all the Scenarios that have been implemented, so far Ran
 From the other scenarios which have concatenated data, each data has a good and clean quality, after combining the data, the new dataframe will be got saturated, so the performance is lower than scenario 1. In the lesson that the author learns, Random Forest has the ability to make the machine learning model for fish-eating classification. 
 
 In further research, the author will try using Deep learning and adding some preprocess algorithm such reducting outlier, to know there is a possibility of increasing the performance of this dataset.
+
+## Getting Started with the notebook
+All you need to do just running all the cell from **google colab**, for futher detailed explanation of each step, you can see in jupter notebook file.
