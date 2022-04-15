@@ -18,4 +18,4 @@ Mohd Razman in his paper entitled "Hunger classification of Lates calcarifer by 
 In this case, the author aims to make a Fish Eating Classification model using machine learning approach, KNN will be employed for the classification not only show the effectiveness and low computational time, KNN also prove has good performance in the previous literature about fish classification. In purpose searching the best model performance author will be adding Random Forest for comparing to the KNN. Meanwhile, PCA will be used for feature extraction from each dataset. **There is 3 scenarios that been implemented**, the goals is also to see which greatest scenarios and model for this dataset. Futher explanation of each scenario will explain in each scenario section code (you can see the header on the content list).
 
 ## Getting Started with the notebook
-All you need to do just running all the cell
+All you need to do just running all the cell from google colab
