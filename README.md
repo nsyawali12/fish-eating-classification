@@ -18,7 +18,7 @@ In this case, the author aims to make a Fish Eating Classification model using m
 #### Scenario 1
 In Scenario one, the author will propose to implement feature extraction (PCA) and modeling for each dataset, in short, all dataset will be tested separately.
 
-![Visual Example PCA Result in Scenario 1 using Plotly 3D](https://github.com/nsyawali12/fish-eating-classification/blob/10ac2808774f4795b260171fdfd251ba966643af/figure/visualize_pca_scene1.PNG)
+Visual Example PCA Result in Scenario 1 using Plotly 3D![vis_pca_scene1](https://github.com/nsyawali12/fish-eating-classification/blob/10ac2808774f4795b260171fdfd251ba966643af/figure/visualize_pca_scene1.PNG)
 
 #### Scenario 2
 in Scenario 2, simply has the similarity to scenario 1 for the feature extraction using the PCA, but after each dataset has passed the PCA process, the result of each PCA of the dataset will be gathered as one dataframe, so for the modeling process, the author will use that dataframe after gather from all PCA process.
