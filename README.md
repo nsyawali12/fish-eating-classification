@@ -28,6 +28,8 @@ In Scenario one, the author will propose to implement feature extraction (PCA) a
   Performances Result in Scenario 1
 </p>
 
+![run_scene1](https://github.com/nsyawali12/fish-eating-classification/blob/1be5de7a29588852db2ae49ff23e0ba2cc11dd4b/figure/running_performance_scene1.PNG)
+
 #### Scenario 2
 in Scenario 2, simply has the similarity to scenario 1 for the feature extraction using the PCA, but after each dataset has passed the PCA process, the result of each PCA of the dataset will be gathered as one dataframe, so for the modeling process, the author will use that dataframe after gather from all PCA process.
 
